@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722951311 source:c:\users\202312030030\desktop\estrutura\tad5\ponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+
+1722950780 c:\users\202312030030\desktop\estrutura\tad5\ponto\ponto.h
+
